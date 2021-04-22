@@ -24,11 +24,6 @@
                 "label": "ސޯޝަލް މީޑިޔާ ލިންކްތައް",
                 "url": "/style-guide",
                 "style": "link"
-            },
-            {
-                "label": "ގުޅުއްވާ",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_social": true,
