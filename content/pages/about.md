@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: '{ވަރަށް އަވަހަށް އަޕްޑޭޓްކުރެވޭނެ، ފަހުން ޒިޔާރަތްކޮށްލައްވާ}'
 img_path: images/pink-lettuce.png
 seo:
   title: About Me
