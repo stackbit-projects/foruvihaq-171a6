@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: އަޅުގަނޑުމެންނާ ގުޅުއްވާ
 img_path: images/energetic-chestnut.png
 form_id: contactForm
 form_action: /success
