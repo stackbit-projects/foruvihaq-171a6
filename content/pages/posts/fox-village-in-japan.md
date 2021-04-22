@@ -5,7 +5,7 @@ excerpt: 'ޕްރައިވެޓް ކުލިނިކްތަކާއި ލެބްތަކުން
 date: '2020-01-11'
 thumb_img_path: images/cover.jpg
 thumb_img_alt: ޗައިނާ
-content_img_path: images/energetic-chestnut.png
+content_img_path: images/interesting-strawberry.jpg
 seo:
   title: Fox Village In Japan
   description: >-
