@@ -25,7 +25,7 @@ form_fields:
   - input_type: textarea
     name: message
     label: މެސްޖު ތިރީގައި ލިޔުއްވާ
-    default_value: މެސެޖްމިތަނުގައި ހިއްސާކުރައްވާ
+    default_value: މެސެޖްމިތަނުގައި ހިއްސާކުރައްވާ!
   - input_type: checkbox
     name: consent
     label: >-
