@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: ކުރު ތަފްސީލް
     label: މައުޟޫޢު
-    default_value: Please select
+    default_value: 'މައިޟޫޢު '
     options:
       - Error on the site
       - Sponsorship
