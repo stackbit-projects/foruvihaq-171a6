@@ -4,7 +4,7 @@ subtitle: ޗައިނާ މުސްލިމުންގެ ތާރީޚުގެ ތެރއިން
 excerpt: 'ޕްރައިވެޓް ކުލިނިކްތަކާއި ލެބްތަކުން ޕީސީއާރު ޓެސްޓް '
 date: '2020-01-11'
 thumb_img_path: images/cover.jpg
-thumb_img_alt: A red fox sitting on a meadow
+thumb_img_alt: ޗައިނާ
 content_img_path: images/energetic-chestnut.png
 seo:
   title: Fox Village In Japan
