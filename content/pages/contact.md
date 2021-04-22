@@ -28,7 +28,7 @@ form_fields:
     default_value: Your message
   - input_type: checkbox
     name: consent
-    label: 'މިފޯމުގައި '
+    label: މިފޯމުގައި ހިއްސާކުރެވިފައިވާ މ
 submit_label: Send Message
 seo:
   title: Get in Touch
