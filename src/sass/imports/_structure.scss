@@ -12,6 +12,10 @@
   min-height: 100vh;
   overflow: hidden;
   position: relative;
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: Faseyha,"mv_a_waheed", "mv iyyu nala", "mv elaaf normal";
+  font-size: 14px !important; 
 }
 
 .inner {
