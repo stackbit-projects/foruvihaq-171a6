@@ -1,8 +1,6 @@
 ---
 title: 'ޕްރައިވެޓް ކުލިނިކްތަކާއި ލެބްތަކުން ޕީސީއާރު ޓެސްޓް '
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: 'ޕްރައިވެޓް ކުލިނިކްތަކާއި ލެބްތަކުން ޕީސީއާރު ޓެސްޓް '
 excerpt: 'ޕްރައިވެޓް ކުލިނިކްތަކާއި ލެބްތަކުން ޕީސީއާރު ޓެސްޓް '
 date: '2020-01-11'
 thumb_img_path: images/10.jpg
