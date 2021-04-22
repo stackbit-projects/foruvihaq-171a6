@@ -16,7 +16,7 @@ form_fields:
     is_required: true
   - input_type: select
     name: ކުރު ތަފްސީލް
-    label: މައުޟޫ
+    label: މައުޟޫޢު
     default_value: Please select
     options:
       - Error on the site
