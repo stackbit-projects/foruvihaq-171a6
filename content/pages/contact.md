@@ -12,7 +12,7 @@ form_fields:
   - input_type: email
     name: email
     label: އީމެއިލް
-    default_value: ސެކުއ
+    default_value: ޕްރޮޓޮން މެއިލްފަދަ އެންކްރިޕްޓެޑް އީމެއެލް ބޭނުންކުރައްވާ
     is_required: true
   - input_type: select
     name: ކުރު ތަފްސީލް
