@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'ތާރީޚުގެ ތެރެއިން : ޗައިނާގައި އިސްލާމީ ޝަރީޢަތުގެ ހިލަމެއް'
 date: '2021-04-22'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
