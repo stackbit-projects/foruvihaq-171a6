@@ -7,7 +7,7 @@ form_fields:
   - input_type: text
     name: name
     label: 'ނަން :'
-    default_value: Your name
+    default_value: އަސްލުނަން ނޫން
     is_required: true
   - input_type: email
     name: email
