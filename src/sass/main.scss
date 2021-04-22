@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Faseyha";
+  src: url('MVFaseyha.eot');
+  src: url('MVFaseyha.woff') format('woff');
+  src: url('MVFaseyha.svg#MVFaseyha') format('svg');
+  src: url('MV_Faseyha.otf') format('opentype'); }
+
 // Font.
 $font: (
   primary: ("PT Serif", serif)
