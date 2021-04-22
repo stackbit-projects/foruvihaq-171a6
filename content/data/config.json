@@ -46,13 +46,6 @@
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
             }
         ]
     },
