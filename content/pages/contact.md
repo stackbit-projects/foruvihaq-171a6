@@ -30,7 +30,7 @@ form_fields:
     name: consent
     label: >-
       މިފޯމުގައި ހިއްސާކުރެވިފައިވާ މަޢުލޫމާތުތަކުގައި އަމިއްލަ މީހާ އެނގޭނޭ
-      ފަދަ މ
+      ފަދަ މަޢުލޫމާތެއް ނުވެއެވެ
 submit_label: Send Message
 seo:
   title: Get in Touch
